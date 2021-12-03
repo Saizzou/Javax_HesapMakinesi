@@ -2,6 +2,7 @@
 <img align="right" alt="Görünüm" src="IMG/Screenshot.png" >
 <img align="left" alt="Görünüm" src="IMG/Screenshot2.png" >
 </div>
+<br>
 <div align="center">
   <strong>Javax ile hazirlanmis Hesap Makinesi</strong>
 </div>
