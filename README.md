@@ -1,8 +1,9 @@
 <h1 align="center">Hesap Makinesi</h1>
 <img align="center" alt="Görünüm" src="IMG/Screenshot.png" >
+<div align="center">
+<h1 align="center">Hesap Makinesi</h1>
 <img align="center" alt="Görünüm" src="IMG/Screenshot2.png" >
 <div align="center">
-
   <strong>Javax ile hazirlanmis Hesap Makinesi</strong>
 </div>
 
