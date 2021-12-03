@@ -9,6 +9,7 @@
 
 <div align="center">
   <strong>Javax ile hazirlanmis Hesap Makinesi</strong>
+  <br>
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/Saizzou/Javax_HesapMakinesi">
   <a href="https://github.com/Saizzou/Javax_HesapMakinesi/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/Saizzou/Javax_HesapMakinesi"></a>
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Saizzou/Javax_HesapMakinesi">
