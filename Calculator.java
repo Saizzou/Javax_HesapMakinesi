@@ -349,6 +349,7 @@ public class Calculator extends javax.swing.JFrame {
 
     private void btn_temizleActionPerformed(java.awt.event.ActionEvent evt) {                                            
         line_Sayi.setText("");
+        label_aradeger.setText("");
     }                                           
 
     private void btn_4ActionPerformed(java.awt.event.ActionEvent evt) {                                      
